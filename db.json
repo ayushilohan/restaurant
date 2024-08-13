@@ -1,0 +1,17 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Pizza Place",
+        "description": "Delicious pizza with a variety of toppings.",
+        "location": "123 Pizza St"
+      },
+      {
+        "id": 2,
+        "name": "Burger Joint",
+        "description": "Juicy burgers and fries.",
+        "location": "456 Burger Ave"
+      }
+    ]
+  }
+  

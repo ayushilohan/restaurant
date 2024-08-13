@@ -1,0 +1,15 @@
+/* src/components/RestaurantList.css */
+
+.restaurant-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.restaurant-item h3 {
+    margin: 0;
+}
+
+.restaurant-item button {
+    margin-left: 10px;
+}

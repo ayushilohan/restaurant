@@ -1,0 +1,10 @@
+/* src/components/RestaurantForm.css */
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form div {
+    margin-bottom: 20px;
+}
